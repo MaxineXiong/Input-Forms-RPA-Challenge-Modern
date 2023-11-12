@@ -12,7 +12,7 @@ The [**automation challenge**](https://www.theautomationchallenge.com/), require
 change position on the screen after every submission of a form. To successfully complete the challenge, it's essential that all the data is accurately entered into the correct fields, 
 and the automation process should be optimized for maximum speed. My solution in this repository flawlessly conquered the challenge, achieving an impeccable 100% accuracy in a mere 262.282 seconds.
 
-_You can view how **my RPA solution** tackles the challenge in the **demo video** below_:
+_You can view the **automation demo video** by clicking on the badge below_:
 
 [![View Demo - Input Dynamic Forms](https://img.shields.io/badge/View_Demo-Input_Dynamic_Forms_(Modern)-fa4616?style=for-the-badge)](https://clipchamp.com/watch/BiZ54VDzvp2)
 
