@@ -1,7 +1,7 @@
 {
-  "UiPath.UIAutomationNext.Activities.Generic.DelayAfter": "0.01",
-  "UiPath.UIAutomationNext.Activities.Generic.DelayBefore": "0.01",
-  "UiPath.UIAutomationNext.Activities.Generic.Timeout": "30",
+  "UiPath.UIAutomationNext.Activities.Generic.DelayAfter": "0.008",
+  "UiPath.UIAutomationNext.Activities.Generic.DelayBefore": "0.008",
+  "UiPath.UIAutomationNext.Activities.Generic.Timeout": "5",
   "UiPath.UIAutomationNext.Activities.Generic.WaitForReady": "Interactive",
   "UiPath.UIAutomationNext.Activities.Generic.ShowClosestMatchesInSearchError": "True",
   "UiPath.UIAutomationNext.Activities.Generic.AlterIfDisabled": "False",
