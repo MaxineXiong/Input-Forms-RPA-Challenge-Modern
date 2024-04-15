@@ -14,9 +14,7 @@ and the automation process should be optimized for maximum speed. My solution in
 
 _You can view the **automation demo video** by clicking on the badge below_:
 
-[![View Demo - Input Dynamic Forms](https://img.shields.io/badge/View_Demo-Input_Dynamic_Forms_(Modern)-fa4616?style=for-the-badge)](https://clipchamp.com/watch/BiZ54VDzvp2)
-
-![rpa-input-forms-modern](https://github.com/MaxineXiong/Input-Forms-RPA-Challenge-Modern/assets/55864839/26b908a6-6c5b-47d3-a811-141bb62a670a)
+[![View Demo - Input Dynamic Forms](https://img.shields.io/badge/View_Demo-Input_Dynamic_Forms_(Modern)-fa4616?style=for-the-badge)](https://1drv.ms/v/s!AhxVr7ogXVBRlSlBWggmO3dty4gT)
 
 <br/>
 
